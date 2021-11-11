@@ -19,5 +19,6 @@ public class GitClass {
         System.out.println("this is a change on IDEA");
         System.out.println("this is a change on github");
         System.out.println("one more time to change on IDEA");
+        System.out.println("one more time to change on Hub");
     }
 }
