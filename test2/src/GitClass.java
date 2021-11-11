@@ -17,5 +17,6 @@ public class GitClass {
             iterator.remove();
         }
         System.out.println("this is a change on IDEA");
+        System.out.println("this is a change on github");
     }
 }
